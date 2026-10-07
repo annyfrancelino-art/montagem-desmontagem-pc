@@ -56,15 +56,15 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 11. Desinstalar dissipador de calor e ventoinha dos processador.
 
-![Retirando o dissipador e a ventoinha](imagens/desmontagem11.jpg)
+<img src="dissipador.jpg" width="300">
 
 12. Desinstalar processador na placa-mãe.
 
-![Retirando o processador](imagens/desmontagem12.jpg)
+<img src="processador.jpg" width="300">
 
 13. Desafixar a placa-mãe do chassi metálico do gabinete.
 
-![Retirando a placa-mãe](imagens/desmontagem13.jpg)
+<img src="placamae.jpg" width="300">
 
 14. Realizar a limpeza.
 
