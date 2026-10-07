@@ -13,7 +13,7 @@ Para realizar a desmontagem e montagem do computador, foram utilizadas as seguin
 
 ---
 
-## Desmontando o PC Desktop
+## Desmontando o PC
 
 Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
@@ -71,7 +71,7 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 <img src="finallimpeza.jpg" width="300">
 
-## Montando o PC Desktop
+## Montando o PC
 
 1. Preparar o gabinete. Verifique se o mesmo está em boas condições e possui:
    - Parafusos para fixação da placa-mãe.
