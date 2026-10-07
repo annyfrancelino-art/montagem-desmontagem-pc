@@ -25,7 +25,7 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 3. Desconectar os conectores da fonte de alimentação.
 
-<img src="tampagabinete.jpg" width="300">
+<img src="fontealimentacao.jpg" width="300">
 
 4. Retirar fonte de alimentação do gabinete.
 
