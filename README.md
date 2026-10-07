@@ -1,4 +1,5 @@
 # Montagem e desmontagem de computadores
+<img src="computador.jpg" width="700">
 
 Tutorial prático sobre o processo de desmontagem e montagem de um computador, realizado durante aulas práticas.
 
@@ -108,23 +109,23 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 8. Instalar placa de vídeo.
 
-<img src="installplacavideo.jpg" width="500">
+<img src="installplacavideo.jpg" width="300">
 
 9. Fixação das unidades de armazenamento secundário (SSDs, HDDs, unidades ópticas)
 
-<img src="installssd.jpg" width="500">
+<img src="installssd.jpg" width="300">
 
 10. Instalar fonte de alimentação
 
-<img src="installfonte.jpg" width="500">
+<img src="installfonte.jpg" width="300">
 
 11. Instalar conectores da fonte de alimentação.
 
-<img src="installalimentacao.jpg" width="500">
+<img src="installalimentacao.jpg" width="300">
 
 12. Instalar cabos flat.
 
-<img src="installcabos.jpg" width="500">
+<img src="installcabos.jpg" width="300">
 
 13. Instalar demais periféricos, caso existam.
 
@@ -134,25 +135,6 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 15. Conferir tudo: tensão da fonte de alimentação, do estabilizador (se houver), tomada com aterramento.
 
-<img src="NOME-DA-FOTO-15.jpg" width="500">
 
 16. Ligar o PC pela primeira vez.
 
-<img src="NOME-DA-FOTO-16.jpg" width="500">
-## Procedimentos após a montagem
-
-Após finalizar a montagem do computador:
-
-1. Verificar se todos os componentes estão corretamente instalados.
-2. Conferir todas as conexões dos cabos.
-3. Conectar os periféricos.
-4. Conectar o cabo de alimentação.
-5. Ligar o computador.
-6. Verificar se o computador inicializa corretamente.
-
----
-
-## Integrantes
-
-- Nome do integrante 1
-- Nome do integrante 2
