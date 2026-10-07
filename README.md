@@ -89,7 +89,7 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 3. Instalar conectores do gabinete à placa-mãe.
 
-<img src="conectores.jpg" width="300">
+<img src="installconectores.jpg" width="300">
 
 4. Conectar periféricos on-board (conectores dos barramentos externos).
 
