@@ -48,7 +48,8 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 9. Desafixar unidades de armazenamento secundário (HDDs, SSDs, dispositivos ópticos etc.)
 
-<img src="tampagabinete.jpg" width="300">
+<img src="hd.jpg" width="200">
+<img src="ssd.jpg" width="200">
 
 10. Desinstalar memória RAM na placa-mãe.
 
