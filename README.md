@@ -33,7 +33,7 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 5. Desinstalar placas de vídeo e de som off-board, se houver.
 
-<img src="tampagabinete.jpg" width="300">
+<img src="placavideo.jpg" width="300">
 
 6. Desinstalar outras placas conectadas à placa-mãe, se houver.
 
