@@ -44,7 +44,7 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 8. Desconectar cabos de dados.
 
-<img src="tampagabinete.jpg" width="300">
+<img src="cabodados.jpg" width="300">
 
 9. Desafixar unidades de armazenamento secundário (HDDs, SSDs, dispositivos ópticos etc.)
 
