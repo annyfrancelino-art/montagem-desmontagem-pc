@@ -112,27 +112,25 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 9. Fixação das unidades de armazenamento secundário (SSDs, HDDs, unidades ópticas)
 
-<img src="NOME-DA-FOTO-09.jpg" width="500">
+<img src="installssd.jpg" width="500">
 
 10. Instalar fonte de alimentação
 
-<img src="NOME-DA-FOTO-10.jpg" width="500">
+<img src="installfonte.jpg" width="500">
 
 11. Instalar conectores da fonte de alimentação.
 
-<img src="NOME-DA-FOTO-11.jpg" width="500">
+<img src="installalimentacao.jpg" width="500">
 
 12. Instalar cabos flat.
 
-<img src="NOME-DA-FOTO-12.jpg" width="500">
+<img src="installcabos.jpg" width="500">
 
 13. Instalar demais periféricos, caso existam.
 
-<img src="NOME-DA-FOTO-13.jpg" width="500">
 
 14. Instalar mouse, teclado e monitor de vídeo.
 
-<img src="NOME-DA-FOTO-14.jpg" width="500">
 
 15. Conferir tudo: tensão da fonte de alimentação, do estabilizador (se houver), tomada com aterramento.
 
