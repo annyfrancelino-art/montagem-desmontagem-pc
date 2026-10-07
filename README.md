@@ -1,5 +1,5 @@
 # Montagem e desmontagem de computadores
-<img src="computador.jpg" width="700">
+<img src="inicio.jpg" width="700">
 
 Tutorial prático sobre o processo de desmontagem e montagem de um computador, realizado durante aulas práticas.
 
