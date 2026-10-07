@@ -29,7 +29,7 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 4. Retirar fonte de alimentação do gabinete.
 
-<img src="tampagabinete.jpg" width="300">
+<img src="retirarfonte.jpg" width="300">
 
 5. Desinstalar placas de vídeo e de som off-board, se houver.
 
