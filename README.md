@@ -68,7 +68,7 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 14. Realizar a limpeza.
 
-![Realizando a limpeza](imagens/desmontagem14.jpg)
+<img src="finallimpeza.jpg" width="300">
 ## Montando o PC Desktop
 
 Após finalizar a desmontagem, inicia-se o processo de montagem dos componentes no gabinete.
