@@ -85,27 +85,26 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 2. Fixar placa-mãe no chassi metálico do gabinete.
 
-<img src="NOME-DA-FOTO-02.jpg" width="500">
+<img src="fixarplaca.jpg" width="500">
 
 3. Instalar conectores do gabinete à placa-mãe.
 
-<img src="NOME-DA-FOTO-03.jpg" width="500">
+<img src="conectores.jpg" width="500">
 
 4. Conectar periféricos on-board (conectores dos barramentos externos).
 
-<img src="NOME-DA-FOTO-04.jpg" width="500">
 
 5. Instalar processador na placa-mãe.
 
-<img src="NOME-DA-FOTO-05.jpg" width="500">
+<img src="installprocessador.jpg" width="500">
 
 6. Colocar pasta térmica e instalar dissipador e a ventoinha (cooler).
 
-<img src="NOME-DA-FOTO-06.jpg" width="500">
+<img src="installdissipador.jpg" width="500">
 
 7. Instalar memória RAM na placa-mãe.
 
-<img src="NOME-DA-FOTO-07.jpg" width="500">
+<img src="installram.jpg" width="500">
 
 8. Instalar placa de vídeo.
 
