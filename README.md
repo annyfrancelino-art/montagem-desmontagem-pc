@@ -25,31 +25,31 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 3. Desconectar os conectores da fonte de alimentação.
 
-![Desconectando os conectores da fonte](imagens/desmontagem03.jpg)
+<img src="tampagabinete.jpg" width="300">
 
 4. Retirar fonte de alimentação do gabinete.
 
-![Retirando a fonte de alimentação](imagens/desmontagem04.jpg)
+<img src="tampagabinete.jpg" width="300">
 
 5. Desinstalar placas de vídeo e de som off-board, se houver.
 
-![Desinstalando placas](imagens/desmontagem05.jpg)
+<img src="tampagabinete.jpg" width="300">
 
 6. Desinstalar outras placas conectadas à placa-mãe, se houver.
 
-![Desinstalando outras placas](imagens/desmontagem06.jpg)
+<img src="tampagabinete.jpg" width="300">
 
 7. Desconectar conectores do gabinete acoplados à placa-mãe (somente gabinetes ATX e ITX).
 
-![Desconectando conectores do gabinete](imagens/desmontagem07.jpg)
+<img src="tampagabinete.jpg" width="300">
 
 8. Desconectar cabos de dados.
 
-![Desconectando cabos de dados](imagens/desmontagem08.jpg)
+<img src="tampagabinete.jpg" width="300">
 
 9. Desafixar unidades de armazenamento secundário (HDDs, SSDs, dispositivos ópticos etc.)
 
-![Retirando unidades de armazenamento](imagens/desmontagem09.jpg)
+<img src="tampagabinete.jpg" width="300">
 
 10. Desinstalar memória RAM na placa-mãe.
 
