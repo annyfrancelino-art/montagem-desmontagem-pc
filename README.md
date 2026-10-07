@@ -21,19 +21,19 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 2. Remova os parafusos que prendem a tampa do gabinete.
 
-<img src="tampagabinete.jpg" width="200">
+<img src="tampagabinete.jpg" width="300">
 
 3. Desconectar os conectores da fonte de alimentação.
 
-<img src="fontealimentacao.jpg" width="200">
+<img src="fontealimentacao.jpg" width="300">
 
 4. Retirar fonte de alimentação do gabinete.
 
-<img src="retirarfonte.jpg" width="200">
+<img src="retirarfonte.jpg" width="300">
 
 5. Desinstalar placas de vídeo e de som off-board, se houver.
 
-<img src="placavideo.jpg" width="200">
+<img src="placavideo.jpg" width="300">
 
 6. Desinstalar outras placas conectadas à placa-mãe, se houver.
 
@@ -71,70 +71,77 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 <img src="finallimpeza.jpg" width="300">
 ## Montando o PC Desktop
 
-Após finalizar a desmontagem, inicia-se o processo de montagem dos componentes no gabinete.
+1. Preparar o gabinete. Verifique se o mesmo está em boas condições e possui:
+   - Parafusos para fixação da placa-mãe.
+   - Parafusos para fixação da fonte de alimentação.
+   - Parafusos para fixação de unidades de armazenamento.
+   - Parafusos para fixação de placas de expansão.
+   - Conectores para os botões de liga/desliga e reset.
+   - Conectores para os LEDs de atividade.
+   - Conectores para os conectores de áudio e vídeo, se houver.
+   - Conectores para os conectores USB.
 
-### 1. Preparar o gabinete
+<img src="NOME-DA-FOTO-01.jpg" width="500">
 
-Verifique se o gabinete está preparado para receber novamente os componentes.
+2. Fixar placa-mãe no chassi metálico do gabinete.
 
-![Preparando o gabinete](imagens/montagem01.jpg)
+<img src="NOME-DA-FOTO-02.jpg" width="500">
 
-### 2. Instalar a placa-mãe
+3. Instalar conectores do gabinete à placa-mãe.
 
-Posicione a placa-mãe corretamente no gabinete e fixe-a utilizando os parafusos apropriados.
+<img src="NOME-DA-FOTO-03.jpg" width="500">
 
-![Instalando a placa-mãe](imagens/montagem02.jpg)
+4. Conectar periféricos on-board (conectores dos barramentos externos).
 
-### 3. Instalar o processador
+<img src="NOME-DA-FOTO-04.jpg" width="500">
 
-Posicione o processador corretamente no soquete da placa-mãe.
+5. Instalar processador na placa-mãe.
 
-![Instalando o processador](imagens/montagem03.jpg)
+<img src="NOME-DA-FOTO-05.jpg" width="500">
 
-### 4. Instalar o cooler
+6. Colocar pasta térmica e instalar dissipador e a ventoinha (cooler).
 
-Instale o cooler sobre o processador e certifique-se de que esteja devidamente fixado.
+<img src="NOME-DA-FOTO-06.jpg" width="500">
 
-![Instalando o cooler](imagens/montagem04.jpg)
+7. Instalar memória RAM na placa-mãe.
 
-### 5. Instalar a memória RAM
+<img src="NOME-DA-FOTO-07.jpg" width="500">
 
-Encaixe os módulos de memória RAM nos slots correspondentes da placa-mãe.
+8. Instalar placa de vídeo.
 
-![Instalando a memória RAM](imagens/montagem05.jpg)
+<img src="NOME-DA-FOTO-08.jpg" width="500">
 
-### 6. Instalar os demais componentes
+9. Fixação das unidades de armazenamento secundário (SSDs, HDDs, unidades ópticas)
 
-Instale os demais componentes que foram retirados durante a desmontagem.
+<img src="NOME-DA-FOTO-09.jpg" width="500">
 
-![Instalando os componentes](imagens/montagem06.jpg)
+10. Instalar fonte de alimentação
 
-### 7. Instalar a fonte de alimentação
+<img src="NOME-DA-FOTO-10.jpg" width="500">
 
-Posicione e fixe a fonte de alimentação no gabinete.
+11. Instalar conectores da fonte de alimentação.
 
-![Instalando a fonte](imagens/montagem07.jpg)
+<img src="NOME-DA-FOTO-11.jpg" width="500">
 
-### 8. Conectar os cabos
+12. Instalar cabos flat.
 
-Conecte novamente os cabos de alimentação e os demais cabos necessários para o funcionamento do computador.
+<img src="NOME-DA-FOTO-12.jpg" width="500">
 
-![Conectando os cabos](imagens/montagem08.jpg)
+13. Instalar demais periféricos, caso existam.
 
-### 9. Organizar os cabos
+<img src="NOME-DA-FOTO-13.jpg" width="500">
 
-Organize os cabos dentro do gabinete para evitar que fiquem soltos ou atrapalhem os componentes.
+14. Instalar mouse, teclado e monitor de vídeo.
 
-![Organizando os cabos](imagens/montagem09.jpg)
+<img src="NOME-DA-FOTO-14.jpg" width="500">
 
-### 10. Fechar o gabinete
+15. Conferir tudo: tensão da fonte de alimentação, do estabilizador (se houver), tomada com aterramento.
 
-Após verificar todas as conexões, coloque novamente a tampa do gabinete e fixe os parafusos.
+<img src="NOME-DA-FOTO-15.jpg" width="500">
 
-![Fechando o gabinete](imagens/montagem10.jpg)
+16. Ligar o PC pela primeira vez.
 
----
-
+<img src="NOME-DA-FOTO-16.jpg" width="500">
 ## Procedimentos após a montagem
 
 Após finalizar a montagem do computador:
