@@ -14,58 +14,62 @@ Para realizar a desmontagem e montagem do computador, foram utilizadas as seguin
 
 ## Desmontando o PC Desktop
 
-Antes de iniciar a desmontagem, é necessário desligar o computador, desconectar os cabos e organizar a bancada de trabalho.
+Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
-### 1. Desligar o computador
+1. Desligue o computador e desconecte todos os cabos e periféricos, como mouse, teclado, monitor, impressora etc.
 
-O primeiro passo é desligar o computador e desconectar os cabos de alimentação e os demais periféricos.
 
-![Desligando o computador](imagens/desmontagem01.jpg)
+2. Remova os parafusos que prendem a tampa do gabinete.
 
-### 2. Remover a tampa do gabinete
+![Removendo os parafusos do gabinete](tampagabinete.jpg)
 
-Remova os parafusos responsáveis pela fixação da tampa do gabinete e retire-a cuidadosamente.
+3. Desconectar os conectores da fonte de alimentação.
 
-![Removendo a tampa do gabinete](imagens/desmontagem02.jpg)
+![Desconectando os conectores da fonte](imagens/desmontagem03.jpg)
 
-### 3. Desconectar os cabos
+4. Retirar fonte de alimentação do gabinete.
 
-Desconecte cuidadosamente os cabos que estão ligados aos componentes internos do computador.
+![Retirando a fonte de alimentação](imagens/desmontagem04.jpg)
 
-![Desconectando os cabos](imagens/desmontagem03.jpg)
+5. Desinstalar placas de vídeo e de som off-board, se houver.
 
-### 4. Remover os componentes
+![Desinstalando placas](imagens/desmontagem05.jpg)
 
-Após desconectar os cabos, retire os componentes internos seguindo a ordem realizada durante a aula prática.
+6. Desinstalar outras placas conectadas à placa-mãe, se houver.
 
-![Removendo os componentes](imagens/desmontagem04.jpg)
+![Desinstalando outras placas](imagens/desmontagem06.jpg)
 
-### 5. Remover a memória RAM
+7. Desconectar conectores do gabinete acoplados à placa-mãe (somente gabinetes ATX e ITX).
 
-Retire os módulos de memória RAM dos seus respectivos slots na placa-mãe.
+![Desconectando conectores do gabinete](imagens/desmontagem07.jpg)
 
-![Removendo a memória RAM](imagens/desmontagem05.jpg)
+8. Desconectar cabos de dados.
 
-### 6. Remover o processador e o cooler
+![Desconectando cabos de dados](imagens/desmontagem08.jpg)
 
-Retire o sistema de refrigeração e, em seguida, o processador, seguindo os cuidados necessários.
+9. Desafixar unidades de armazenamento secundário (HDDs, SSDs, dispositivos ópticos etc.)
 
-![Removendo o processador](imagens/desmontagem06.jpg)
+![Retirando unidades de armazenamento](imagens/desmontagem09.jpg)
 
-### 7. Remover a placa-mãe
+10. Desinstalar memória RAM na placa-mãe.
 
-Retire os parafusos de fixação e remova cuidadosamente a placa-mãe do gabinete.
+![Retirando a memória RAM](imagens/desmontagem10.jpg)
 
-![Removendo a placa-mãe](imagens/desmontagem07.jpg)
+11. Desinstalar dissipador de calor e ventoinha dos processador.
 
-### 8. Realizar a limpeza
+![Retirando o dissipador e a ventoinha](imagens/desmontagem11.jpg)
 
-Com os componentes retirados, realize a limpeza do gabinete e dos componentes utilizando as ferramentas adequadas.
+12. Desinstalar processador na placa-mãe.
 
-![Realizando a limpeza](imagens/desmontagem08.jpg)
+![Retirando o processador](imagens/desmontagem12.jpg)
 
----
+13. Desafixar a placa-mãe do chassi metálico do gabinete.
 
+![Retirando a placa-mãe](imagens/desmontagem13.jpg)
+
+14. Realizar a limpeza.
+
+![Realizando a limpeza](imagens/desmontagem14.jpg)
 ## Montando o PC Desktop
 
 Após finalizar a desmontagem, inicia-se o processo de montagem dos componentes no gabinete.
