@@ -82,7 +82,6 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
    - Conectores para os conectores de áudio e vídeo, se houver.
    - Conectores para os conectores USB.
 
-<img src="NOME-DA-FOTO-01.jpg" width="500">
 
 2. Fixar placa-mãe no chassi metálico do gabinete.
 
