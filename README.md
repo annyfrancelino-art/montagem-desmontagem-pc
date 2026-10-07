@@ -108,7 +108,7 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 8. Instalar placa de vídeo.
 
-<img src="NOME-DA-FOTO-08.jpg" width="500">
+<img src="installplacavideo.jpg" width="500">
 
 9. Fixação das unidades de armazenamento secundário (SSDs, HDDs, unidades ópticas)
 
