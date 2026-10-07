@@ -37,11 +37,10 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 6. Desinstalar outras placas conectadas à placa-mãe, se houver.
 
-<img src="tampagabinete.jpg" width="300">
 
 7. Desconectar conectores do gabinete acoplados à placa-mãe (somente gabinetes ATX e ITX).
 
-<img src="tampagabinete.jpg" width="300">
+<img src="atx.jpg" width="300">
 
 8. Desconectar cabos de dados.
 
