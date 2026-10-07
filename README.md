@@ -21,7 +21,7 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 
 2. Remova os parafusos que prendem a tampa do gabinete.
 
-<img src="tampagabinete.jpg" width="500">
+<img src="tampagabinete.jpg" width="300">
 
 3. Desconectar os conectores da fonte de alimentação.
 
