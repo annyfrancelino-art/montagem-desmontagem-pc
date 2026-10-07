@@ -69,6 +69,7 @@ Lembre-se de deixar a bancada de manutenção limpa e arrumada!
 14. Realizar a limpeza.
 
 <img src="finallimpeza.jpg" width="300">
+
 ## Montando o PC Desktop
 
 1. Preparar o gabinete. Verifique se o mesmo está em boas condições e possui:
